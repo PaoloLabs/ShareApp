@@ -1,1 +1,1 @@
-Aplicación para compartir imagenes desde la galería y camara para el diplomado con React Native
+Aplicación para compartir imágenes desde la galería y la cámara, diseñada para el diplomado utilizando React Native.
